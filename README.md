@@ -1,3 +1,4 @@
+!! DESCONTINUADO !!<br><br>
 VRA – Verificador de Registro de Atividade
 Utilitário para a área contábil
 
